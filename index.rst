@@ -11,6 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   feature-a
+   markup
 
 
 Indices and tables
